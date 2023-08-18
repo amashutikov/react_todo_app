@@ -28,8 +28,8 @@ This app is integrated with a backend API that provides the following endpoints:
 
 - **GET /todos:** Fetches the list of todos.
 - **POST /todos:** Adds a new todo.
-- **PUT /todos/:id:** Updates an existing todo.
-- **DELETE /todos/:id:** Deletes a todo.
+- **PUT /todos/:id** Updates an existing todo.
+- **DELETE /todos/:id** Deletes a todo.
 
 ## Technologies Used
 
